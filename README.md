@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarkMKE
-- I’m interested in machines and systems.
-- I’m currently learning HTML, CSS and JS
-
+- Studying Systems Engineering
+- I know how to work with Java and C++, and I’m currently learning HTML, CSS and JS.
 
 <!---
 DarkMKE/DarkMKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
