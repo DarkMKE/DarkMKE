@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkMKE
+- 👋 Hi, I’m Gastón!
 - Studying Systems Engineering
 - I know how to work with Java and C++, and I’m currently learning HTML, CSS and JS.
 
